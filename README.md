@@ -1,5 +1,5 @@
 :blush:this is 54wb' brief intro   
-:school:I'm in NorthEast Polytechnical University   
+:school:I'm in Northeastern Polytechnical University   
 :books:I'm learning in computer vision  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54wb&show_icons=true&theme=tokyonight)
 
