@@ -1,6 +1,10 @@
 ### Hi there 👋
-this is 54wb'
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54wb&show_icons=true&theme=radical)
+:blush:this is 54wb' brief intro   
+:school:I'm in NorthEast Polytechnical University   
+:books:I'm learning in computer vision  
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54wb&show_icons=true&theme=tokyonight)
+
 <!--
 **54wb/54wb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
